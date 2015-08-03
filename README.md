@@ -1,0 +1,2 @@
+# OpenBattleControl
+Game configuration application
